@@ -1,6 +1,7 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
   test app
+<<<<<<< HEAD
   Noob measdasd
   assert_difference "assert_differencead
   assert_differenceadd
@@ -12,10 +13,8 @@ class ApplicationController < ActionController::Base
   	dasdas
   	dasdas
   	dasdasd
-  	
-  end.count", 1 do
-    
-  end.count", 1 do
-    
-  end
+  asdasdasdasd
+  axdc
+  assert_differenceadsad
+  
 end
