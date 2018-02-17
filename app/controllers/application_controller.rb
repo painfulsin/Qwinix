@@ -1,19 +1,16 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
   test app
-  Noob me
-assert(assa
-	as
-	sa
-	a
-	scan(/assert_difference "assert_difference "assert_difference "assert_difference "asdadasdaxc
-		.count", 1 do
-	  
-	end.count", 1 do
-	  
-	end.count", 1 do
-	  
-	end.count", 1 do
-	  
-	end/) { |match|  }, "Failure message.")
+<<<<<<< HEAD
+  Noob measdasd
+  assert_difference "assert_differencead
+  assert_differenceadd
+  assert_difference "asdas
+  def asd
+  	asd
+  	a
+  	das
+  	dasdas
+  	
+
 end
