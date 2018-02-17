@@ -11,10 +11,6 @@ class ApplicationController < ActionController::Base
   	a
   	das
   	dasdas
-  	dasdas
-  	dasdasd
-  asdasdasdasd
-  axdc
-  assert_differenceadsad
-  
+  	
+
 end
