@@ -1,4 +1,5 @@
 class ApplicationController < ActionController::Base
   protect_from_forgery with: :exception
   test app
+  Noob me
 end
